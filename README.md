@@ -78,3 +78,8 @@ The program is open to specialists and professionals in the data science sector 
 ```
 Research Credits Program offers small grants to students conducting research projects outside of formal classes. If you have a research idea that could benefit from a few hundred dollars in support, they invite you to apply through email (earlier by submitting the form). While the program isn’t widely advertised, it provides an opportunity to fund innovative projects. Recipients are kindly asked to acknowledge Together AI in their work.
 ```
+
+[San Fransisco Compute Company](https://sfcompute.com/)
+```
+We run large-scale, vetted GPU clusters. Need 800 H100s on a single InfiniBand fabric for an hour? You got it. 8 H200s dedicated for a year? Sure. Need to cancel? Just sell back what you don't need. You're never locked-in to a long-term contract.
+```
