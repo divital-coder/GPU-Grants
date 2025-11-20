@@ -83,3 +83,8 @@ Research Credits Program offers small grants to students conducting research pro
 ```
 We run large-scale, vetted GPU clusters. Need 800 H100s on a single InfiniBand fabric for an hour? You got it. 8 H200s dedicated for a year? Sure. Need to cancel? Just sell back what you don't need. You're never locked-in to a long-term contract.
 ```
+
+[MODAL Academic Grant](https://modal.com/academics#apply)
+```
+MODAL provides GPU compute and other credits on the platform
+```
