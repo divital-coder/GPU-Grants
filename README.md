@@ -88,3 +88,9 @@ We run large-scale, vetted GPU clusters. Need 800 H100s on a single InfiniBand f
 ```
 MODAL provides GPU compute and other credits on the platform
 ```
+
+[TOGETHER AI](https://www.together.ai/)
+
+[NVIDIA NIM Service](https://build.nvidia.com/)
+
+
